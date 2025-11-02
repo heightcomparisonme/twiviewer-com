@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "title": "AI Moon Advisor – Guía Lunar Personal",
+    "description": "Genera lecturas lunares personalizadas y recetas AI de LunaChef basadas en tu carta natal, posición lunar actual e intenciones diarias."
+  },
+  "hero": {
+    "badge": "Lectura Lunar AI",
+    "title": "AI Moon Advisor",
+    "subtitle": "Insights lunares personales y recetas inteligentes en segundos",
+    "description": "Combina astrología tradicional con IA moderna. Sube tus datos de nacimiento una vez, recibe lecturas lunares diarias y deja que LunaChef sugiera platos nutritivos alineados con el elemento de hoy.",
+    "cta_primary": "Comenzar tu Lectura",
+    "cta_secondary": "Ver Precios"
+  },
+  "aiMoonAdvisor": {
+    "footer": {
+      "disclaimer": "El contenido generado por IA puede variar en precisión. Siempre revisa las lecturas y recetas antes de compartirlas con tu audiencia.",
+      "consult": "Para integraciones personalizadas o funciones avanzadas, contacta a nuestro equipo para una consulta."
+    }
+  },
+  "placeholder": {
+    "title": "AI Moon Advisor",
+    "badge": "Próximamente",
+    "description": "Experimenta insights lunares personalizados impulsados por IA avanzada. Obtén lecturas lunares diarias, recetas alineadas con elementos y guía espiritual adaptada a tu carta natal.",
+    "features": [
+      "Impulsado por IA",
+      "Rápido y Preciso",
+      "Fácil de Usar"
+    ],
+    "ctaText": "Únete a la Lista de Espera",
+    "progressLabel": "Progreso de Desarrollo",
+    "progressValue": "75%"
+  },
+  "features": {
+    "title": "Por qué los creadores aman AI Moon Advisor",
+    "description": "Dale a tu comunidad guía lunar diaria, rituales curados e ideas de recetas inteligentes con mínimo esfuerzo.",
+    "insights": {
+      "title": "Insights Lunares Personales",
+      "description": "La IA resume el signo lunar, fase, aspectos y tono emocional adaptado a cada carta natal."
+    },
+    "personalization": {
+      "title": "Perfiles de Nacimiento Flexibles",
+      "description": "Store multiple birth profiles, remember preferences, and regenerate readings for any date."
+    },
+    "recipes": {
+      "title": "LunaChef AI Kitchen",
+      "description": "Craft seasonal, element-aligned recipes with dietary filters, ingredient prompts, and nutrition breakdowns."
+    },
+    "credits": {
+      "title": "Credit Economy Ready",
+      "description": "Built-in credit tracking, pricing hints, and recharge links keep monetisation under your control."
+    }
+  },
+  "showcase": {
+    "badge": "How it works",
+    "title": "Two AI copilots for your lunar product",
+    "description": "The advisor is split into a moon reading tab and a LunaChef recipe engine—each optimised for instant value.",
+    "image_url": "/imgs/showcases/7.png",
+    "image_alt": "AI Moon Advisor interface",
+    "benefits": [
+      "Capture birth data once and reuse it across readings and recipes",
+      "Explain emotional rhythms, opportunities, and challenges in natural language",
+      "Generate element-based recipes with ingredient swaps and nutritional info",
+      "Show available credits, costs per action, and invite users to recharge",
+      "Export readings or recipes for newsletters, premium feeds, or workshops"
+    ]
+  },
+  "features2": {
+    "label": "Experience the flow",
+    "title": "From birth data to actionable guidance",
+    "description": "Show users what changes when AI combines natal charts with the current moon.",
+    "hover_tip": "Select a card to preview the before/after slider",
+    "slider_before_alt": "Before activating AI Moon Advisor",
+    "slider_after_alt": "After generating an AI moon reading",
+    "slider_hover_title": "Drag to compare",
+    "slider_hover_description": "Use the slider to reveal how AI enriches daily lunar briefings.",
+    "items": {
+      "insights": {
+        "title": "Contextual Moon Reading",
+        "description": "Compare a simple moon summary with an AI-crafted narrative including mood, focus, and suggested rituals."
+      },
+      "recipes": {
+        "title": "Element-Aligned Recipes",
+        "description": "Highlight how LunaChef turns a moon element into a full recipe with nutrition notes and shopping list."
+      },
+      "workflow": {
+        "title": "Creator Workflow",
+        "description": "Show the difference between manual scripting and automated content ready for publication."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "description": "What users say about our AI moon advisor. Perfect for creators, astrologers, and wellness professionals.",
+    "stats": {
+      "modelsCreated": "Moon Readings Generated",
+      "averageRating": "Average Rating",
+      "successRate": "Success Rate",
+      "countriesServed": "Countries Served"
+    },
+    "items": [
+      {
+        "name": "Sarah Chen",
+        "role": "Wellness Coach",
+        "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+        "quote": "This AI moon advisor has revolutionized how I create content for my community. The readings are insightful and the recipes are always on point!",
+        "rating": "5"
+      },
+      {
+        "name": "Marcus Rodriguez",
+        "role": "Content Creator",
+        "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+        "quote": "As someone with no astrology background, this tool makes it easy to offer personalized moon guidance to my audience. Game changer!",
+        "rating": "5"
+      },
+      {
+        "name": "Jennifer Kim",
+        "role": "Astrology Blogger",
+        "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+        "quote": "The LunaChef recipes are brilliant! My followers love the element-aligned meal suggestions. Saves me hours of research.",
+        "rating": "5"
+      },
+      {
+        "name": "Alex Thompson",
+        "role": "Yoga Instructor",
+        "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+        "quote": "I use this daily to create moon-aligned content for my classes. The personalization options are exactly what I needed.",
+        "rating": "5"
+      },
+      {
+        "name": "Lisa Wang",
+        "role": "Holistic Nutritionist",
+        "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+        "quote": "The combination of lunar insights and recipe generation is perfect for my practice. My clients are obsessed with their personalized readings!",
+        "rating": "5"
+      },
+      {
+        "name": "David Brown",
+        "role": "Meditation Guide",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+        "quote": "Simple, powerful, and accurate. This AI tool helps me deliver daily moon wisdom to thousands of followers effortlessly.",
+        "rating": "5"
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "description": "Key questions about the AI Moon Advisor module.",
+    "items": [
+      {
+        "title": "Do I need user accounts to store birth data?",
+        "description": "Yes. The advisor is designed for signed-in users so you can offer premium readings and recipe quotas per profile."
+      },
+      {
+        "title": "Which AI providers are supported?",
+        "description": "The template ships with the Vercel AI SDK, OpenAI, and prompt templates. Swap models or providers to match your pricing."
+      },
+      {
+        "title": "Can I change credit costs per action?",
+        "description": "Absolutely. Both the UI and server routes expose constants so you can define the credit price for readings and recipes."
+      },
+      {
+        "title": "How do I localise the copy?",
+        "description": "Texts live in `src/i18n/pages/tools/example`. Add new locales and the layout will automatically render them."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Launch AI Moon Advisor with Mondkalender",
+    "description": "Deliver premium lunar experiences, monetise AI readings, and give your audience daily nourishment.",
+    "primary_button": "Explore Mondkalender",
+    "secondary_button": "Read Documentation",
+    "primary_link": "/tools",
+    "secondary_link": "/docs"
+  }
+}

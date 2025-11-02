@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "title": "AI Moon Advisor – Persönliche Mondbegleitung",
+    "description": "Erhalte personalisierte Monddeutungen und LunaChef-Rezepte auf Basis deines Geburtshoroskops, der aktuellen Mondposition und deiner Tagesintention."
+  },
+  "hero": {
+    "badge": "AI Mondanalyse",
+    "title": "AI Moon Advisor",
+    "subtitle": "Individuelle Mondimpulse & smarte Rezepte in Sekunden",
+    "description": "Traditionelle Astrologie trifft moderne KI. Speichere deine Geburtsdaten, erhalte tägliche Mond-Reads und lasse LunaChef passende Gerichte zum heutigen Element vorschlagen.",
+    "cta_primary": "Reading starten",
+    "cta_secondary": "Preise ansehen"
+  },
+  "placeholder": {
+    "title": "AI Moon Advisor",
+    "badge": "Demnächst verfügbar",
+    "description": "Erlebe personalisierte Mond-Insights powered by fortgeschrittener KI. Erhalte tägliche Mond-Readings, element-aligned Rezepte und spirituelle Begleitung basierend auf deinem Geburtshoroskop.",
+    "features": [
+      "KI-gestützt",
+      "Schnell & Präzise",
+      "Einfach zu nutzen"
+    ],
+    "ctaText": "Zur Warteliste",
+    "progressLabel": "Entwicklungsfortschritt",
+    "progressValue": "75%"
+  },
+  "features": {
+    "title": "Darum lieben Creator:innen den AI Moon Advisor",
+    "description": "Liefere deiner Community tägliche Mondbegleitung, Rituale und intelligente Rezeptideen – nahezu ohne manuellen Aufwand.",
+    "insights": {
+      "title": "Personalisierte Mond-Insights",
+      "description": "Die KI fasst Mondzeichen, Phase, Aspekte und Emotionston individuell pro Geburtshoroskop zusammen."
+    },
+    "personalization": {
+      "title": "Flexible Profile",
+      "description": "Speichere mehrere Geburtsprofile, merke dir Präferenzen und generiere Readings für beliebige Daten."
+    },
+    "recipes": {
+      "title": "LunaChef AI Küche",
+      "description": "Kreiere element-aligned Rezepte mit Ernährungsfiltern, Wunschzutaten und Nährwertangaben."
+    },
+    "credits": {
+      "title": "Credit-System integriert",
+      "description": "Credit-Anzeige, Kostenhinweise und Auflade-Links sind bereits vorgesehen – ideal für Premium-Abos."
+    }
+  },
+  "showcase": {
+    "badge": "Funktionsweise",
+    "title": "Zwei AI-Copiloten für dein Mondprodukt",
+    "description": "Der Advisor besteht aus einem Moon-Reading-Tab und der LunaChef-Küche – beide liefern sofortigen Mehrwert.",
+    "image_url": "/imgs/showcases/7.png",
+    "image_alt": "AI Moon Advisor Oberfläche",
+    "benefits": [
+      "Geburtsdaten einmal erfassen und für Readings sowie Rezepte wiederverwenden",
+      "Emotionen, Chancen und Herausforderungen verständlich erklären lassen",
+      "Elementbasierte Rezepte inklusive Zutaten-Alternativen und Nährwerten erzeugen",
+      "Credits, Kosten pro Aktion und Upgrade-Möglichkeiten transparent anzeigen",
+      "Readings oder Rezepte für Newsletter, Premium-Feeds oder Workshops exportieren"
+    ]
+  },
+  "features2": {
+    "label": "Erlebe den Ablauf",
+    "title": "Von Geburtsdaten zu konkreten Impulsen",
+    "description": "Zeige Nutzer:innen, was passiert, wenn die KI Natal-Daten mit der aktuellen Mondposition kombiniert.",
+    "hover_tip": "Karte wählen, um den Vergleichsslider zu aktualisieren",
+    "slider_before_alt": "Vor der Aktivierung des AI Moon Advisor",
+    "slider_after_alt": "Nach dem AI-generierten Mond-Reading",
+    "slider_hover_title": "Zum Vergleichen ziehen",
+    "slider_hover_description": "Mit dem Slider sichtbar machen, wie viel reichhaltiger der tägliche Mondbericht wird.",
+    "items": {
+      "insights": {
+        "title": "Kontextuelles Moon Reading",
+        "description": "Stelle eine einfache Mondbeschreibung einem KI-Narrativ mit Stimmung, Fokus und Ritualideen gegenüber."
+      },
+      "recipes": {
+        "title": "Elementare LunaChef-Rezepte",
+        "description": "Zeige, wie LunaChef aus dem Mond-Element ein vollständiges Rezept mit Nährwerten und Einkaufsliste erstellt."
+      },
+      "workflow": {
+        "title": "Creator-Workflow",
+        "description": "Veranschauliche den Unterschied zwischen manuellem Schreiben und sofort sendefähigem AI-Content."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Erfahrungsberichte",
+    "description": "Was Nutzer:innen über unseren AI Moon Advisor sagen. Perfekt für Creator, Astrologen und Wellness-Profis.",
+    "stats": {
+      "modelsCreated": "Mond-Readings generiert",
+      "averageRating": "Durchschnittsbewertung",
+      "successRate": "Erfolgsquote",
+      "countriesServed": "Länder weltweit"
+    },
+    "items": [
+      {
+        "name": "Sarah Chen",
+        "role": "Wellness Coach",
+        "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+        "quote": "Dieser AI Moon Advisor hat revolutioniert, wie ich Content für meine Community erstelle. Die Readings sind tiefgründig und die Rezepte immer passend!",
+        "rating": "5"
+      },
+      {
+        "name": "Marcus Rodriguez",
+        "role": "Content Creator",
+        "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+        "quote": "Als jemand ohne astrologische Vorkenntnisse macht es dieses Tool einfach, meinem Publikum personalisierte Mondbegleitung anzubieten. Ein Gamechanger!",
+        "rating": "5"
+      },
+      {
+        "name": "Jennifer Kim",
+        "role": "Astrology Bloggerin",
+        "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+        "quote": "Die LunaChef-Rezepte sind genial! Meine Follower lieben die element-aligned Meal-Vorschläge. Spart mir Stunden an Recherche.",
+        "rating": "5"
+      },
+      {
+        "name": "Alex Thompson",
+        "role": "Yoga-Lehrer",
+        "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+        "quote": "Ich nutze dies täglich, um mondausgerichteten Content für meine Klassen zu erstellen. Die Personalisierungsoptionen sind genau das, was ich brauchte.",
+        "rating": "5"
+      },
+      {
+        "name": "Lisa Wang",
+        "role": "Ganzheitliche Ernährungsberaterin",
+        "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+        "quote": "Die Kombination aus Mond-Insights und Rezeptgenerierung ist perfekt für meine Praxis. Meine Kunden sind begeistert von ihren personalisierten Readings!",
+        "rating": "5"
+      },
+      {
+        "name": "David Brown",
+        "role": "Meditations-Guide",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+        "quote": "Einfach, kraftvoll und präzise. Dieses AI-Tool hilft mir, tausenden von Followern mühelos tägliche Mondweisheit zu liefern.",
+        "rating": "5"
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "description": "Häufige Fragen zum AI Moon Advisor Modul.",
+    "items": [
+      {
+        "title": "Brauche ich Nutzerkonten für Geburtsdaten?",
+        "description": "Ja. Das Modul ist für eingeloggte User konzipiert, damit du Premium-Readings und Rezeptkontingente sauber verwalten kannst."
+      },
+      {
+        "title": "Welche KI-Anbieter werden unterstützt?",
+        "description": "Standardmäßig liefern wir die Vercel AI SDK-Integration mit OpenAI. Du kannst Modelle oder Anbieter jederzeit anpassen."
+      },
+      {
+        "title": "Kann ich die Credit-Kosten pro Aktion ändern?",
+        "description": "Natürlich. UI und Serverrouten nutzen Konstanten, über die du Preise für Readings und Rezepte steuerst."
+      },
+      {
+        "title": "Wie lokalisiere ich die Texte?",
+        "description": "Alle Texte liegen in `src/i18n/pages/tools/example`. Erweiterst du die Locale-Liste, rendert das Layout sie automatisch."
+      }
+    ]
+  },
+  "cta": {
+    "title": "AI Moon Advisor mit Mondkalender ausliefern",
+    "description": "Biete Premium-Monderlebnisse, monetarisiere AI-Readings und inspiriere deine Community täglich.",
+    "primary_button": "Mondkalender entdecken",
+    "secondary_button": "Dokumentation lesen",
+    "primary_link": "/tools",
+    "secondary_link": "/docs"
+  }
+}
