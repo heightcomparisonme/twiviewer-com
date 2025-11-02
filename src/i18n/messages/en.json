@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "Mondkalender | Mondkalender 2026 | Moon Calendar 2026",
-    "description": "Mondkalender 2026 - Full Year Moon Planner,for hair cutting, gardening, health and more",
-    "keywords": "Mondkalender, Mondkalender 2026, Moon Calendar 2026, Moon Calendar 2026 Printable"
+    "title": "Twitter Viewer | Free X Viewer | Twitter Web Viewer",
+    "description": "Twitter Viewer is the fast X viewer that lets you browse tweets, profiles, threads and trends without logging in. Discover the ultimate twitter web viewer for research, monitoring and inspiration.",
+    "keywords": "Twitter Viewer, X viewer, twitter web viewer, Twitter profile viewer, anonymous Twitter viewer"
   },
   "user": {
     "sign_in": "Sign In",
@@ -12,7 +12,7 @@
     "my_orders": "My Orders",
     "user_center": "User Center",
     "admin_system": "Admin System",
-    "cpm_calculator": "Mondkalender"
+    "cpm_calculator": "Twitter Viewer"
   },
   "sign_modal": {
     "sign_in_title": "Sign In",
@@ -35,7 +35,7 @@
   },
   "my_orders": {
     "title": "My Orders",
-    "description": "orders paid with Mondkalender.",
+    "description": "Orders paid with Twitter Viewer.",
     "no_orders": "No orders found",
     "tip": "",
     "activate_order": "Activate Order",
@@ -89,8 +89,8 @@
     }
   },
   "blog": {
-    "title": "Marketing Blog",
-    "description": "Digital marketing insights, CPM tips, and advertising strategies",
+    "title": "Twitter Viewer Blog",
+    "description": "Guides on X marketing, twitter web viewer workflows, and audience insights.",
     "read_more_text": "Read More",
     "no_content": "No content",
     "all": "All",
@@ -105,7 +105,7 @@
     "edit_invite_link": "Edit Invite Link",
     "copy_invite_link": "Copy Invite Link",
     "invite_code": "Invite Code",
-    "invite_tip": "Invite 1 friend to buy Mondkalender, reward $50.",
+    "invite_tip": "Invite one friend to upgrade Twitter Viewer and earn $50 credit.",
     "invite_balance": "Invite Reward Balance",
     "total_invite_count": "Total Invite Count",
     "total_paid_count": "Total Paid Count",
@@ -113,7 +113,7 @@
     "update_invite_code": "Set Invite Code",
     "update_invite_code_tip": "Input your custom invite code",
     "update_invite_button": "Save",
-    "no_orders": "You can't invite others before you bought Mondkalender",
+    "no_orders": "You can't invite others before you subscribe to Twitter Viewer.",
     "no_affiliates": "You're not allowed to invite others, please contact us to apply for permission.",
     "table": {
       "invite_time": "Invite Time",
@@ -131,61 +131,61 @@
     "submit": "Submit",
     "loading": "Submitting...",
     "contact_tip": "Other ways to contact us",
-    "rating_tip": "How do you feel about Mondkalender?",
+    "rating_tip": "How do you feel about Twitter Viewer?",
     "placeholder": "Leave your words here..."
   },
   "navigation": {
     "home": "Home",
-    "search": "Community",
-    "moon": "Tools",
-    "favorites": "Blog",
-    "profile": "Glossary"
+    "search": "Discover",
+    "moon": "Viewer",
+    "favorites": "Saved",
+    "profile": "Workspace"
   },
   "hero_switcher": {
     "component_one": {
-      "brand_name": "Mondkalender",
-      "title": "Calculate CPM Like a Pro",
-      "description": "The ultimate Mondkalender for digital marketers and advertisers. ",
-      "subdescription": "Calculate Cost Per Mille, plan budgets, and optimize your advertising campaigns with precision.",
-      "button_text": "Calculate CPM",
-      "see_demo": "See Demo"
+      "brand_name": "Twitter Viewer",
+      "title": "Dive into X without logging in",
+      "description": "Twitter Viewer is the lightning-fast X viewer built for researchers, marketers, and fans.",
+      "subdescription": "Load profiles, threads, hashtags and spaces inside a distraction-free twitter web viewer with real-time metrics.",
+      "button_text": "Launch Twitter Viewer",
+      "see_demo": "See Twitter Viewer demo"
     },
     "control_panel": {
-      "title": "Campaign Calculator",
-      "description": "Enter your campaign data to calculate CPM and other metrics",
-      "upload_button": "Upload Data",
-      "file_types": "We accept .jpeg, .jpg, .png, .webp formats up to 24MB.",
-      "max_images_reached": "Maximum {maxImages} images reached",
+      "title": "Lookup Workspace",
+      "description": "Drop @handles, tweet URLs or keywords to explore them inside Twitter Viewer analytics.",
+      "upload_button": "Import handle list",
+      "file_types": "Upload .csv or .txt lists up to 100 entries.",
+      "max_images_reached": "Maximum {maxImages} profiles reached",
       "remove": "Remove",
-      "images_count": "{count} / {max} images",
-      "prompt_title": "Prompt",
-      "prompt_description": "Describe what you want to change in the image",
-      "prompt_placeholder": "Example: Change the background to a blue sky",
-      "aspect_ratio_title": "Aspect Ratio",
-      "aspect_ratio_description": "Choose the aspect ratio you want to use",
-      "output_count_title": "Number of Outputs",
-      "output_count_description": "Choose the number of outputs you want",
-      "generate_button": "Generate Images ✨{count}",
-      "back_button": "← Return to hero-one"
+      "images_count": "{count} / {max} profiles",
+      "prompt_title": "Filters",
+      "prompt_description": "Add filters for language, engagement or media type.",
+      "prompt_placeholder": "Example: track #AI videos from verified accounts this week",
+      "aspect_ratio_title": "Layout",
+      "aspect_ratio_description": "Choose the layout for your twitter web viewer export",
+      "output_count_title": "Saved views",
+      "output_count_description": "Decide how many saved views to create",
+      "generate_button": "Run Twitter Viewer scan ?{count}",
+      "back_button": "? Return to feed"
     },
     "preview_carousel": {
-      "title": "Preview Gallery",
+      "title": "Timeline Preview",
       "number": "3",
-      "description": "Preview your AI-generated transformations",
-      "no_images": "No images to display",
-      "download_all": "Download All Images",
+      "description": "Instantly preview tweets, media and engagement before saving.",
+      "no_images": "No tweets to display",
+      "download_all": "Download all exports",
       "share": "Share",
-      "save_gallery": "Save to Gallery",
-      "image_count": "{current} of {total}",
+      "save_gallery": "Save to collection",
+      "image_count": "Viewing {current} of {total} tweets",
       "alt_text": {
-        "professional_headshot_1": "Professional headshot 1",
-        "professional_headshot_2": "Professional headshot 2", 
-        "professional_headshot_3": "Professional headshot 3"
+        "professional_headshot_1": "Twitter Viewer timeline preview",
+        "professional_headshot_2": "X viewer engagement snapshot",
+        "professional_headshot_3": "twitter web viewer media grid"
       },
       "image_titles": {
-        "convert_linkedin": "Convert to LinkedIn profile",
-        "professional_portrait": "Professional portrait",
-        "business_headshot": "Business headshot"
+        "convert_linkedin": "Top tweets",
+        "professional_portrait": "Media spotlight",
+        "business_headshot": "Thread summary"
       }
     },
     "mode_indicator": {
@@ -194,112 +194,112 @@
     }
   },
   "calculator": {
-    "title": "Mondkalender",
-    "description": "Enter any two of the following fields, then click 'Calculate' to get the third value",
-    "hero_title": "Professional Mondkalender",
-    "hero_description": "Calculate Cost Per Mille, impressions, and advertising costs with precision. The essential tool for digital marketers and advertisers.",
+    "title": "Twitter Viewer Analytics",
+    "description": "Enter any two values below and Twitter Viewer estimates the third for you.",
+    "hero_title": "Professional Twitter Viewer Toolkit",
+    "hero_description": "Model tweet impressions, engagement rates and link clicks to optimise your X strategy.",
     "cpm": {
-      "title": "Mondkalender",
-      "description": "Calculate Cost Per Mille (CPM) for your advertising campaigns with precision",
-      "label": "Cost Per Thousand Impressions (CPM)",
-      "calculation_description": "To calculate cost per thousand impressions, enter:",
-      "step1": "Total Ad Spend",
-      "step2": "Number of Impressions"
+      "title": "Tweet Impression Estimator",
+      "description": "Project tweet reach by combining spend or organic boosts with CPM benchmarks.",
+      "label": "Estimated Impressions",
+      "calculation_description": "To project tweet impressions, enter:",
+      "step1": "Total Budget or Boost Spend",
+      "step2": "CPM (Cost Per 1,000 impressions)"
     },
     "cpa": {
-      "title": "CPA Calculator",
-      "description": "Calculate Cost Per Action/Acquisition for your marketing campaigns",
-      "label": "Cost Per Action (CPA)",
-      "calculation_description": "To calculate cost per action, enter:",
-      "step1": "Total Ad Spend",
-      "step2": "Number of Actions/Conversions"
+      "title": "Follower Acquisition Calculator",
+      "description": "Estimate cost per new follower from promoted tweets or campaigns.",
+      "label": "Cost Per Follower",
+      "calculation_description": "To calculate cost per follower, enter:",
+      "step1": "Total Campaign Spend",
+      "step2": "Number of New Followers"
     },
     "cpc": {
-      "title": "CPC Calculator",
-      "description": "Calculate Cost Per Click for your advertising campaigns",
-      "label": "Cost Per Click (CPC)",
+      "title": "Link Click Calculator",
+      "description": "Measure cost per click for ads or organic amplification.",
+      "label": "Cost Per Click",
       "calculation_description": "To calculate cost per click, enter:",
-      "step1": "Total Ad Spend",
+      "step1": "Total Budget",
       "step2": "Number of Clicks",
-      "card_title": "CPC Calculator",
-      "card_description": "Calculate cost per click, total cost, or number of clicks",
-      "total_cost_label": "Total Ad Spend",
-      "total_cost_description": "To calculate the total cost of your advertising campaign, enter:",
+      "card_title": "Link Click Calculator",
+      "card_description": "Calculate cost per click, total cost or total clicks for any Twitter Viewer campaign.",
+      "total_cost_label": "Total Budget",
+      "total_cost_description": "To calculate the total budget required, enter:",
       "total_cost_step1": "CPC (Cost Per Click)",
       "total_cost_step2": "Number of Clicks",
-      "cpc_label": "Cost Per Click (CPC)",
-      "cpc_description": "To calculate the cost per click, enter:",
-      "cpc_step1": "Total Ad Spend",
+      "cpc_label": "Cost Per Click",
+      "cpc_description": "To calculate cost per click, enter:",
+      "cpc_step1": "Total Budget",
       "cpc_step2": "Number of Clicks",
       "clicks_label": "Number of Clicks",
-      "clicks_description": "To calculate the number of clicks your ad received, enter:",
-      "clicks_step1": "Total Ad Spend",
+      "clicks_description": "To calculate total clicks, enter:",
+      "clicks_step1": "Total Budget",
       "clicks_step2": "CPC (Cost Per Click)",
       "error_min_fields": "Please fill in at least two fields"
     },
     "ctr": {
-      "title": "CTR Calculator",
-      "description": "Calculate Click-Through Rate to measure ad performance",
-      "label": "Click-Through Rate (CTR)",
-      "calculation_description": "To calculate click-through rate, enter:",
-      "step1": "Number of Clicks",
+      "title": "Engagement Rate Calculator",
+      "description": "Measure engagement on tweets and threads inside Twitter Viewer.",
+      "label": "Engagement Rate",
+      "calculation_description": "To calculate engagement rate, enter:",
+      "step1": "Total Engagements",
       "step2": "Number of Impressions",
-      "card_title": "CTR Calculator",
-      "card_description": "Calculate click-through rate, clicks, or impressions",
-      "clicks_label": "Number of Clicks",
-      "clicks_description": "Number of clicks your ad received",
-      "impressions_label": "Number of Impressions",
-      "impressions_description": "Total number of ad impressions",
-      "ctr_label": "Click-Through Rate (CTR)",
-      "ctr_description": "Click-through rate percentage",
-      "ctr_formula": "Formula: CTR = (Clicks / Impressions) × 100%",
-      "cvr_card_title": "CVR Calculator",
-      "cvr_card_description": "Calculate conversion rate, conversions, or clicks",
-      "conversions_label": "Number of Conversions",
-      "conversions_description": "Number of conversions from your ad",
-      "cvr_clicks_label": "Number of Clicks",
-      "cvr_clicks_description": "Number of clicks your ad received",
-      "cvr_label": "Conversion Rate (CVR)",
-      "cvr_description": "Conversion rate percentage",
-      "cvr_formula": "Formula: CVR = (Conversions / Clicks) × 100%",
+      "card_title": "Engagement Rate Calculator",
+      "card_description": "Calculate engagement rate, engagements or impressions.",
+      "clicks_label": "Total Engagements",
+      "clicks_description": "Likes, replies, reposts and link clicks",
+      "impressions_label": "Impressions",
+      "impressions_description": "Total tweet impressions",
+      "ctr_label": "Engagement Rate",
+      "ctr_description": "Engagement percentage",
+      "ctr_formula": "Formula: Engagement Rate = (Engagements / Impressions) ? 100%",
+      "cvr_card_title": "Conversion Rate Calculator",
+      "cvr_card_description": "Calculate conversion rate, conversions or clicks for your X landing pages.",
+      "conversions_label": "Conversions",
+      "conversions_description": "Desired actions completed",
+      "cvr_clicks_label": "Clicks",
+      "cvr_clicks_description": "Link clicks captured",
+      "cvr_label": "Conversion Rate",
+      "cvr_description": "Conversion percentage",
+      "cvr_formula": "Formula: Conversion Rate = (Conversions / Clicks) ? 100%",
       "error_min_fields": "Please fill in at least two fields",
       "error_zero_impressions": "Impressions cannot be zero",
       "error_zero_clicks": "Clicks cannot be zero"
     },
     "roi": {
-      "title": "ROI Calculator",
-      "description": "Calculate Return on Investment for your marketing campaigns",
-      "label": "Return on Investment (ROI)",
+      "title": "Campaign ROI Calculator",
+      "description": "Understand return on investment for your Twitter Viewer campaigns.",
+      "label": "Return on Investment",
       "calculation_description": "To calculate ROI, enter:",
       "step1": "Revenue Generated",
       "step2": "Total Investment"
     },
     "total_cost": {
-      "label": "Total Ad Spend",
-      "description": "To calculate the total cost of an online advertising campaign, enter:",
-      "step1": "CPM (Cost Per Thousand Impressions)",
+      "label": "Total Budget",
+      "description": "To calculate total spend required, enter:",
+      "step1": "CPM (Cost Per 1,000 impressions)",
       "step2": "Number of Impressions"
     },
     "impressions": {
-      "label": "Number of Impressions",
-      "description": "To calculate how many impressions your budget can get, enter:",
-      "step1": "Total Ad Spend",
-      "step2": "CPM (Cost Per Thousand Impressions)"
+      "label": "Impressions",
+      "description": "To estimate impressions from your budget, enter:",
+      "step1": "Total Budget",
+      "step2": "CPM (Cost Per 1,000 impressions)"
     },
     "buttons": {
       "reset": "Reset",
       "calculate": "Calculate"
-    },     
+    },
     "placeholders": {
       "total_cost": "1000",
-      "cpm": "10",
-      "impressions": "100000"
+      "cpm": "8",
+      "impressions": "125000"
     },
     "currency_label": "Select Currency",
     "error_min_fields": "Please fill in at least two fields",
     "results": {
       "title": "Calculation Results",
-      "total_cost_label": "Total Ad Spend",
+      "total_cost_label": "Total Budget",
       "cpm_label": "CPM",
       "impressions_label": "Impressions"
     }
@@ -315,7 +315,7 @@
     "export_data": "Export Data",
     "view_details": "View Details",
     "trend_up": "Rising",
-    "trend_down": "Falling", 
+    "trend_down": "Falling",
     "trend_stable": "Stable",
     "results_count": "Results"
   },
@@ -341,84 +341,84 @@
   },
   "aero_section": {
     "tabs": {
-      "cpm": "Mondkalender 2026",
-      "cpc": "Hair Cutting",
-      "cpa": "Garden Calendar",
-      "ctr": "Health",
-      "roi": "Print Version",
-      "youtube": "Daily Calendar"
+      "cpm": "Profile Viewer",
+      "cpc": "Thread Reader",
+      "cpa": "Hashtag Tracker",
+      "ctr": "Media Saver",
+      "roi": "Spaces Explorer",
+      "youtube": "Reports"
     },
     "content": {
       "cpm": {
-        "title": "Mondkalender 2026 – Your Moon Phase Guide",
-        "subtitle": "Live in Harmony with the Moon",
-        "description": "Use the Mondkalender 2026 for optimal planning. Discover the best times for haare schneiden (hair cutting), gardening, and health. Your digital companion for the entire year.",
-        "placeholder": "Explore moon phases for 2026..."
+        "title": "Twitter Viewer Profile Insights",
+        "subtitle": "Audit any public X profile",
+        "description": "Review top tweets, engagement ratios and follower trends inside the Twitter Viewer without logging in.",
+        "placeholder": "Search for an @handle..."
       },
       "cpc": {
-        "title": "Mondkalender Haare Schneiden – Perfect Timing",
-        "subtitle": "Hair cutting according to moon calendar",
-        "description": "Haare schneiden im Mondkalender: Find the best days for haircuts and hair care. The moon influences hair growth – use moon phases optimally for healthy, strong hair.",
-        "placeholder": "Find the ideal day for your haircut..."
+        "title": "Thread Reader for Long Tweets",
+        "subtitle": "Expand, summarise and save",
+        "description": "Turn complex threads into clean narratives, copy them with formatting or export as PDFs.",
+        "placeholder": "Paste a thread URL..."
       },
       "cpa": {
-        "title": "Garden According to Moon Calendar",
-        "subtitle": "Planting, Sowing and Harvesting at the Right Time",
-        "description": "Plan your gardening according to the moon calendar. Optimal times for sowing, planting and harvesting. The moon supports plant growth and soil care.",
-        "placeholder": "Discover favorable gardening times..."
+        "title": "Real-time Hashtag Tracker",
+        "subtitle": "Monitor keywords across X",
+        "description": "Follow trending hashtags and mentions with live volume charts, sentiment cues and alerts.",
+        "placeholder": "Track a hashtag..."
       },
       "ctr": {
-        "title": "Health and Wellness in Moon Rhythm",
-        "subtitle": "Body and Mind in Harmony",
-        "description": "Use the moon calendar for your health. Find optimal times for wellness, fasting, sports and relaxation. The moon influences our body and wellbeing.",
-        "placeholder": "Plan your wellness days..."
+        "title": "Media Saver",
+        "subtitle": "Download photos, GIFs and video",
+        "description": "Save media assets complete with source attribution and engagement data for your team library.",
+        "placeholder": "Drop a tweet link..."
       },
       "roi": {
-        "title": "Mondkalender 2026 zum Ausdrucken (Printable)",
-        "subtitle": "Your Personal Wall Calendar",
-        "description": "Download the Mondkalender 2026 zum Ausdrucken. Practical annual calendar with all moon phases, zodiac signs and favorable days for your daily life. Perfect for home or office.",
-        "placeholder": "Download print version..."
+        "title": "Spaces Explorer",
+        "subtitle": "Discover live and upcoming Spaces",
+        "description": "Filter by language, topic or host to see what's happening on X audio right now.",
+        "placeholder": "Search X Spaces..."
       },
       "youtube": {
-        "title": "Daily Moon Calendar – Today",
-        "subtitle": "Current Moon Phase and Daily Recommendations",
-        "description": "What does the moon say today? Get daily recommendations for haare schneiden, gardening, health and more. Your personal moon calendar for every day.",
-        "placeholder": "View today's moon phase..."
+        "title": "Automated Reports",
+        "subtitle": "Share insights instantly",
+        "description": "Generate exports, email digests and dashboards directly from the twitter web viewer.",
+        "placeholder": "Schedule a report..."
       }
     },
     "ui": {
-      "add_image": "Add Image",
+      "add_image": "Add profile",
       "send": "Send",
       "hints": "Hints:",
-      "change_background": "Change Background"
+      "change_background": "Switch layout"
     },
     "hints": {
       "video": {
-        "short_film": "Short Film",
-        "animate_scene": "Animate Scene",
-        "style_transfer": "Style Transfer",
-        "add_bgm": "Add BGM",
-        "remove_objects": "Remove Objects"
+        "short_film": "Monitor launch",
+        "animate_scene": "Track campaign",
+        "style_transfer": "Compare competitors",
+        "add_bgm": "Save highlights",
+        "remove_objects": "Filter noise"
       },
       "image": {
-        "artistic_style": "Artistic Style",
-        "remove_background": "Remove Background",
-        "enhance_quality": "Enhance Quality",
-        "photo_realistic": "Photo Realistic",
-        "color_grading": "Color Grading"
+        "artistic_style": "Tag influencers",
+        "remove_background": "Hide retweets",
+        "enhance_quality": "Boost insights",
+        "photo_realistic": "Preview media",
+        "color_grading": "Spot trends"
       },
       "audio": {
-        "bgm_composer": "BGM Composer",
-        "soundtrack": "Soundtrack",
-        "voice_clone": "Voice Clone",
-        "audio_effects": "Audio Effects",
-        "noise_removal": "Noise Removal"
+        "bgm_composer": "Bookmark Spaces",
+        "soundtrack": "Follow hosts",
+        "voice_clone": "Capture quotes",
+        "audio_effects": "Share recaps",
+        "noise_removal": "Mute spam"
       }
     }
   },
   "feature0": {
-    "title": "Other Mondkalender Tools",
-    "description": "Mondkalender | cpa-calculator | cpc-calculator | ctr-calculator | roi-calculator | youtube-cpm-calculator",
+    "title": "Other Twitter Viewer Tools",
+    "description": "Twitter Viewer | X viewer | thread reader | hashtag tracker | media saver | spaces explorer",
     "pause_rotation": "Pause Auto Rotation",
     "start_rotation": "Start Auto Rotation",
     "auto_rotating": "Auto Rotating",
@@ -461,4 +461,3 @@
     "fetch_error": "Failed to load comments"
   }
 }
-
