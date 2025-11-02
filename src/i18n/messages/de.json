@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "Mondkalender | Mondkalender 2026 | Moon Calendar 2026",
-    "description": "Mondkalender 2026 – Volljähriger Mondplaner für Haarschnitt, Gartenarbeit, Gesundheit und mehr",
-    "keywords": "Mondkalender, Mondkalender 2026, Moon Calendar 2026, Moon Calendar 2026 Printable"
+    "title": "Twitter Viewer | Kostenloser X Viewer | Twitter Web Viewer",
+    "description": "Twitter Viewer ist der schnelle X Viewer für anonymes Twitter durchstöbern ohne Anmeldung. Entdecken Sie Profile, Tweets und Trends mit unserem kostenlosen twitter web viewer.",
+    "keywords": "Twitter Viewer, X viewer, twitter web viewer, Twitter Profil Viewer, anonymer Twitter Viewer"
   },
   "user": {
     "sign_in": "Anmelden",
@@ -12,13 +12,13 @@
     "my_orders": "Meine Bestellungen",
     "user_center": "Nutzerbereich",
     "admin_system": "Admin-Konsole",
-    "cpm_calculator": "Mondkalender"
+    "cpm_calculator": "Twitter Viewer"
   },
   "sign_modal": {
     "sign_in_title": "Anmelden",
-    "sign_in_description": "Melden Sie sich mit Ihrem Mondkalender-Konto an",
+    "sign_in_description": "Melden Sie sich mit Ihrem Twitter Viewer-Konto an",
     "sign_up_title": "Registrieren",
-    "sign_up_description": "Erstellen Sie ein neues Konto in wenigen Sekunden",
+    "sign_up_description": "Erstellen Sie ein neues Twitter Viewer Konto",
     "email_title": "E-Mail",
     "email_placeholder": "Ihre E-Mail-Adresse",
     "password_title": "Passwort",
@@ -35,7 +35,7 @@
   },
   "my_orders": {
     "title": "Meine Bestellungen",
-    "description": "Ihre mit Mondkalender getätigten Käufe im Überblick.",
+    "description": "Ihre mit Twitter Viewer getätigten Käufe im Überblick.",
     "no_orders": "Keine Bestellungen gefunden",
     "tip": "",
     "activate_order": "Bestellung aktivieren",
@@ -89,8 +89,8 @@
     }
   },
   "blog": {
-    "title": "Marketing-Blog",
-    "description": "Strategien, Vorlagen und Playbooks für wachsende Mondkalender-Produkte.",
+    "title": "Twitter Viewer Blog",
+    "description": "Anleitungen zu X Marketing, twitter web viewer Workflows und Zielgruppen-Insights.",
     "read_more_text": "Weiterlesen",
     "no_content": "Noch keine Beiträge",
     "all": "Alle",
@@ -99,13 +99,13 @@
   },
   "my_invites": {
     "title": "Mein Partnerprogramm",
-    "description": "Verfolgen Sie Ihre Einladungen und Affiliate-Einnahmen.",
+    "description": "Verfolgen Sie Ihre Twitter Viewer Einladungen und Affiliate-Einnahmen.",
     "no_invites": "Keine Einladungen gefunden",
     "my_invite_link": "Mein Einladungslink",
     "edit_invite_link": "Link bearbeiten",
     "copy_invite_link": "Link kopieren",
     "invite_code": "Code",
-    "invite_tip": "Laden Sie Freund:innen ein, Mondkalender zu kaufen und erhalten Sie 50 $ Provision pro Kauf.",
+    "invite_tip": "Laden Sie Freund:innen ein, Twitter Viewer zu abonnieren und erhalten Sie 50 $ Provision pro Kauf.",
     "invite_balance": "Ausstehende Provision",
     "total_invite_count": "Einladungen gesamt",
     "total_paid_count": "Davon bezahlt",
@@ -113,7 +113,7 @@
     "update_invite_code": "Code festlegen",
     "update_invite_code_tip": "Individuellen Einladungscode eingeben",
     "update_invite_button": "Speichern",
-    "no_orders": "Bitte kaufen Sie zuerst Mondkalender, um das Partnerprogramm freizuschalten.",
+    "no_orders": "Bitte abonnieren Sie zuerst Twitter Viewer, um das Partnerprogramm freizuschalten.",
     "no_affiliates": "Partnerprogramm nicht aktiviert. Kontaktieren Sie uns zur Freischaltung.",
     "table": {
       "invite_time": "Eingeladen am",
@@ -125,67 +125,64 @@
       "completed": "Abgeschlossen"
     }
   },
-  "dashboard": {
-    "welcome_back": "Willkommen zurück, {name}",
-    "subtitle": "Behalten Sie Figuren, Tools und Umsätze Ihres Mondkalender-Angebots im Blick.",
-    "today_revenue": "Umsatz heute",
-    "today_users": "Aktive Nutzer:innen",
-    "today_generation": "AI-Ausgaben heute",
-    "today_credit_cost": "Credits heute",
-    "usage_overview": "Nutzungsübersicht",
-    "usage_overview_description": "Verfolgen Sie monatliche Wachstumskennzahlen",
-    "credit_overview": "Credit-Flow",
-    "credit_overview_description": "Credits gekauft vs. Credits ausgegeben",
-    "recent_activity": "Aktuelle Aktivität",
-    "recent_orders": "Neueste Bestellungen",
-    "view_all": "Alle anzeigen"
-  },
-  "pricing": {
-    "title": "Preisgestaltung",
-    "subtitle": "Einmal kaufen, als SaaS betreiben oder als Community-Produkt einsetzen – Sie entscheiden.",
-    "monthly": "Monatlich",
-    "yearly": "Jährlich",
-    "one_time": "Einmalig",
-    "most_popular": "Beliebt",
-    "best_value": "Bestes Preis-Leistungs-Verhältnis",
-    "cta": "Mondkalender nutzen",
-    "features_title": "Alle Pakete beinhalten",
-    "features": [
-      "Produktionsreife Next.js 15 App Router Architektur",
-      "Internationalisierung mit next-intl (EN/DE/ZH als Vorlage)",
-      "Supabase + Drizzle ORM Setup",
-      "NextAuth mit OAuth + Magic Link",
-      "Stripe Zahlungsintegration",
-      "Admin- & Kunden-Dashboards",
-      "Modulare Mond-Tools & AI-Integrationen",
-      "Komplette Content- und Dokumentationsstruktur"
-    ]
-  },
-  "hero": {
-    "badge": "Mondkalender Template",
-    "title": "Bauen Sie Ihre Mond & AI Plattform in Stunden – nicht in Monaten",
-    "description": "Mondkalender ist ein Next.js 15 Starterkit mit fertiger Auth, Billing, AI-Schnittstellen und Mond-spezifischen Tools. Perfekt für Gründende, Creator und Agenturen.",
-    "primary_button": "Jetzt starten",
-    "secondary_button": "Demo ansehen",
-    "trusted_by": "Vertrauenswürdig für moderne Mondprodukte"
+  "hero_switcher": {
+    "component_one": {
+      "brand_name": "Twitter Viewer",
+      "title": "Tauchen Sie in X ein ohne Anmeldung",
+      "description": "Twitter Viewer ist der blitzschnelle X viewer für Forscher, Marketer und Fans.",
+      "subdescription": "Laden Sie Profile, Threads, Hashtags und Spaces in einem ablenkungsfreien twitter web viewer mit Echtzeit-Metriken.",
+      "button_text": "Twitter Viewer starten",
+      "see_demo": "Twitter Viewer Demo ansehen"
+    },
+    "control_panel": {
+      "title": "Recherche-Arbeitsbereich",
+      "description": "Geben Sie @Handles, Tweet-URLs oder Schlüsselwörter ein, um sie im Twitter Viewer Analytics zu erkunden.",
+      "upload_button": "Handle-Liste importieren",
+      "file_types": "Laden Sie .csv oder .txt Listen mit bis zu 100 Einträgen hoch.",
+      "max_images_reached": "Maximum {maxImages} Profile erreicht",
+      "remove": "Entfernen",
+      "images_count": "{count} / {max} Profile",
+      "prompt_title": "Filter",
+      "prompt_description": "Fügen Sie Filter für Sprache, Engagement oder Medientyp hinzu.",
+      "prompt_placeholder": "Beispiel: verfolge #AI Videos von verifizierten Accounts diese Woche",
+      "aspect_ratio_title": "Layout",
+      "aspect_ratio_description": "Wählen Sie das Layout für Ihren twitter web viewer Export",
+      "output_count_title": "Gespeicherte Ansichten",
+      "output_count_description": "Entscheiden Sie, wie viele gespeicherte Ansichten erstellt werden sollen",
+      "generate_button": "Twitter Viewer Scan ausführen ✨{count}",
+      "back_button": "← Zurück zum Feed"
+    },
+    "preview_carousel": {
+      "title": "Timeline-Vorschau",
+      "number": "3",
+      "description": "Zeigen Sie sofort Tweets, Medien und Engagement vor dem Speichern an.",
+      "no_images": "Keine Tweets zum Anzeigen",
+      "download_all": "Alle Exporte herunterladen",
+      "share": "Teilen",
+      "save_gallery": "Zur Sammlung hinzufügen",
+      "image_count": "Anzeige {current} von {total} Tweets",
+      "alt_text": {
+        "professional_headshot_1": "Twitter Viewer Timeline-Vorschau",
+        "professional_headshot_2": "X viewer Engagement-Schnappschuss",
+        "professional_headshot_3": "twitter web viewer Medien-Raster"
+      },
+      "image_titles": {
+        "convert_linkedin": "Top Tweets",
+        "professional_portrait": "Medien-Spotlight",
+        "business_headshot": "Thread-Zusammenfassung"
+      }
+    },
+    "mode_indicator": {
+      "mode": "Modus",
+      "current_mode": "{mode}"
+    }
   },
   "navigation": {
     "home": "Startseite",
-    "search": "Community",
-    "moon": "Tools",
-    "favorites": "Blog",
-    "profile": "Glossar",
-    "features": "Funktionen",
-    "pricing": "Preise",
-    "tools": "Tools",
-    "console": "Konsole",
-    "posts": "Blog",
-    "docs": "Dokumentation",
-    "showcase": "Showcase",
-    "sign_in": "Anmelden",
-    "sign_up": "Loslegen",
-    "locale": "Sprache",
-    "theme": "Thema"
+    "search": "Entdecken",
+    "moon": "Viewer",
+    "favorites": "Gespeichert",
+    "profile": "Arbeitsbereich"
   },
   "footer": {
     "title": "Mondkalender",

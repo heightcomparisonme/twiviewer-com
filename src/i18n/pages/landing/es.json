@@ -1,83 +1,82 @@
 {
-  "template": "mondkalender",
+  "template": "twitter-viewer",
   "theme": "light",
   "header": {
     "brand": {
-      "title": "Mondkalender",
+      "title": "Twitter Viewer",
       "logo": {
         "src": "/logo.png",
-        "alt": "Mondkalender"
+        "alt": "Logo de Twitter Viewer"
       },
       "url": "/"
     },
     "nav": {
       "items": [
         {
-          "title": "Home",
+          "title": "Inicio",
           "url": "/#hero",
-          "icon": "RiHomeHeartLine"
+          "icon": "RiHomeSmileLine"
         },
         {
-          "title": "Tools",
+          "title": "Herramientas",
           "url": "/tools",
-          "icon": "RiToolsLine",
+          "icon": "RiAppsLine",
           "children": [
             {
-              "title": "Moon Today",
-              "description": "Live phase, zodiac sign and tailored guidance for the day",
-              "url": "/tools/mond-heute",
-              "icon": "RiMoonClearLine"
+              "title": "Twitter Profile Viewer",
+              "description": "Abre cualquier perfil p?blico de X en el Twitter Viewer, el twitter web viewer sin distracciones.",
+              "url": "/tools/profile-viewer",
+              "icon": "RiUserSearchLine"
             },
             {
-              "title": "Haircut Planner",
-              "description": "Find the perfect cut & care slots based on lunar timing",
-              "url": "/tools/mondkalender-haare-schneiden",
-              "icon": "RiScissors2Line"
+              "title": "Lector de hilos",
+              "description": "Expande y guarda hilos largos dentro del X Viewer.",
+              "url": "/tools/thread-reader",
+              "icon": "RiArticleLine"
             },
             {
-              "title": "Hair Coloring",
-              "description": "Plan color and bleach appointments with LunaColor",
-              "url": "/tools/haare-farben-mondkalender",
-              "icon": "RiPaletteLine"
+              "title": "Hashtag Tracker",
+              "description": "Monitorea hashtags, palabras clave y menciones en tiempo real con Twitter Viewer.",
+              "url": "/tools/hashtag-tracker",
+              "icon": "RiHashtag"
             },
             {
-              "title": "Moon Sign Calculator",
-              "description": "Discover your moon sign, element and emotional blueprint",
-              "url": "/tools/moon-sign-calculator",
-              "icon": "RiSparklingLine"
+              "title": "Descargador de medios",
+              "description": "Descarga fotos, GIFs y videos directamente desde el twitter web viewer.",
+              "url": "/tools/media-downloader",
+              "icon": "RiDownloadLine"
             },
             {
-              "title": "Rise & Set Times",
-              "description": "Precise moonrise and moonset data for rituals and photography",
-              "url": "/tools/auf-untergang",
-              "icon": "RiSunFoggyLine"
+              "title": "Directorio de Spaces",
+              "description": "Descubre Spaces en vivo y pr?ximos por tema, anfitri?n e idioma.",
+              "url": "/tools/spaces",
+              "icon": "RiRadioLine"
             },
             {
-              "title": "Cooking with the Moon",
-              "description": "Create menus aligned with elemental moon energies",
-              "url": "/tools/kochen",
-              "icon": "RiRestaurantLine"
-            },
-            {
-              "title": "Moon Calendar 2026",
-              "description": "Full year overview with printable layouts",
-              "url": "/mondkalender-2026",
-              "icon": "RiCalendar2Line"
+              "title": "Panel Anal?tico",
+              "description": "Compara m?tricas de engagement de cualquier cuenta con insights del Twitter Viewer.",
+              "url": "/tools/analytics",
+              "icon": "RiBarChart2Line"
             }
           ]
         },
         {
-          "title": "Blog",
-          "url": "/posts",
-          "icon": "RiArticleLine"
+          "title": "Precios",
+          "url": "/#pricing",
+          "icon": "RiVipCrownLine"
         },
         {
-          "title": "Docs",
-          "url": "/docs",
+          "title": "Gu?as",
+          "url": "/posts",
           "icon": "RiBookOpenLine"
         },
         {
-          "title": "Community",
+          "title": "API",
+          "url": "/docs",
+          "icon": "RiCodeSSlashLine"
+        },
+        {
+          "title": "Comunidad",
           "url": "/discord",
           "icon": "RiDiscordFill"
         }
@@ -85,11 +84,11 @@
     },
     "buttons": [
       {
-        "title": "Open Moon Today",
-        "url": "/tools/mond-heute",
+        "title": "Abrir Twitter Viewer",
+        "url": "/viewer",
         "target": "_self",
-        "variant": "link",
-        "icon": "RiArrowRightUpLine"
+        "variant": "default",
+        "icon": "RiPlayCircleLine"
       }
     ],
     "show_sign": true,
@@ -97,27 +96,27 @@
     "show_locale": true
   },
   "hero": {
-    "title": "Mondkalender 2026 – Live in Harmony with the Moon",
-    "highlight_text": "Hair Cutting, Gardening & More by Moon Phases",
-    "description": "The comprehensive Mondkalender with all important moon phases for 2026. Plan haare schneiden (hair cutting), gardening, health and daily activities by Mondkalender – with precise recommendations for every day of the year.",
+    "title": "Twitter Viewer - X Viewer para perfiles, tuits y tendencias",
+    "highlight_text": "Twitter web viewer veloz para investigaci?n, monitoreo e inspiraci?n",
+    "description": "Twitter Viewer es el X Viewer que te permite explorar tuits, perfiles, hashtags y Spaces sin iniciar sesi?n. Usa nuestro twitter web viewer para an?lisis competitivo, seguimiento de tendencias e inspiraci?n diaria.",
     "announcement": {
-      "label": "New",
-      "title": "✨ Mondkalender 2026 zum Ausdrucken (Printable) Available",
-      "url": "/mondkalender-2026-zum-ausdrucken"
+      "label": "Nuevo",
+      "title": "? Alertas de hashtag en tiempo real ya disponibles en Twitter Viewer",
+      "url": "/tools/hashtag-tracker"
     },
-    "tip": "🌙 Discover all 12 Mondkalender tools for free",
+    "tip": "?? Prueba gratis Twitter Viewer - no necesitas cuenta de X.",
     "buttons": [
       {
-        "title": "Open Mondkalender 2026",
-        "icon": "RiCalendar2Line",
-        "url": "/mondkalender-2026",
+        "title": "Abrir Twitter Viewer",
+        "icon": "RiPlayCircleLine",
+        "url": "/viewer",
         "target": "_self",
         "variant": "default"
       },
       {
-        "title": "Haare Schneiden Calendar",
-        "icon": "RiScissors2Line",
-        "url": "/tools/mondkalender-haare-schneiden",
+        "title": "Seguir hashtags en X",
+        "icon": "RiHashtag",
+        "url": "/tools/hashtag-tracker",
         "target": "_self",
         "variant": "outline"
       }
@@ -126,7 +125,7 @@
     "show_badge": true
   },
   "branding": {
-    "title": "Built on trusted foundations",
+    "title": "Impulsado por un stack moderno de datos sociales",
     "items": [
       {
         "title": "Next.js",
@@ -157,6 +156,13 @@
         }
       },
       {
+        "title": "Supabase",
+        "image": {
+          "src": "/imgs/logos/supabase.svg",
+          "alt": "Supabase"
+        }
+      },
+      {
         "title": "Vercel",
         "image": {
           "src": "/imgs/logos/vercel.svg",
@@ -167,111 +173,86 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "Your Digital Mondkalender for 2026",
-    "label": "Overview",
-    "description": "Mondkalender provides precise moon phase information and practical recommendations for haare schneiden (hair cutting), gardening, cooking and health. Harness the power of the moon for your daily life – scientifically based and easy to apply.",
+    "title": "Tu espacio completo de Twitter Viewer",
+    "label": "Resumen",
+    "description": "Twitter Viewer re?ne crawling r?pido, res?menes con IA y filtros inteligentes. Cambia entre perfiles, tuits y hashtags sin salir del twitter web viewer.",
     "image": {
       "src": "/imgs/features/1.png"
     },
     "items": [
       {
-        "title": "12 Specialized Mondkalender Tools",
-        "description": "Mondkalender haare schneiden, hair coloring, garden calendar, cooking calendar, moonrise, health and more – all based on current moon phases.",
-        "icon": "RiMoonClearLine"
+        "title": "Panel unificado de Twitter Viewer",
+        "description": "Salta de cualquier @usuario a hilos, medios y menciones en segundos, todo dentro de Twitter Viewer.",
+        "icon": "RiLayoutGridLine"
       },
       {
-        "title": "Daily Moon Phase Recommendations",
-        "description": "Get personalized tips based on the current moon phase, your location and interests for optimal results throughout 2026.",
-        "icon": "RiUserHeartLine"
+        "title": "Modo de investigaci?n an?nimo",
+        "description": "Mantente invisible con nuestra capa de sesi?n del X Viewer. Navega datos p?blicos sin topes de inicio de sesi?n.",
+        "icon": "RiEyeOffLine"
       },
       {
-        "title": "Mondkalender 2026 zum Ausdrucken",
-        "description": "Download the complete Mondkalender 2026 as PDF – perfect for home, office or as a gift with all moon phases printed.",
-        "icon": "RiRocketLine"
+        "title": "Insights exportables",
+        "description": "Marca tuits, exporta CSVs y comparte colecciones con tu equipo directamente desde Twitter Viewer.",
+        "icon": "RiDownloadCloudLine"
       }
     ]
   },
   "benefit": {
     "name": "benefit",
-    "title": "Why Mondkalender is the Best Choice",
-    "label": "Benefits",
-    "description": "Use the proven power of moon phases for your daily life. With Mondkalender, make decisions at the optimal time – for hair, garden, health and more.",
+    "title": "Por qu? los equipos eligen Twitter Viewer",
+    "description": "Reemplaza capturas y procesos manuales con un X Viewer dise?ado para social listening.",
     "items": [
       {
-        "title": "Complete Mondkalender Toolkit",
-        "description": "From haare schneiden nach Mondkalender to gardening – plan and optimize all important areas of life in harmony with moon phases.",
-        "icon": "RiApps2Line",
-        "image": {
-          "src": "/imgs/features/2.png",
-          "alt": "Tool ecosystem before"
-        },
-        "afterImage": {
-          "src": "/imgs/features/2-after.png",
-          "alt": "Tool ecosystem after"
-        }
+        "title": "X Viewer siempre activo",
+        "description": "Transmite timelines, busca archivos y guarda medios sin inicios de sesi?n ni l?mites molestos.",
+        "icon": "RiTimerFlashLine"
       },
       {
-        "title": "Precise Moon Phase Data for 2026",
-        "description": "Based on astronomical Swiss Ephemeris calculations, get day-accurate moon phases, zodiac signs and optimal time windows for your activities.",
-        "icon": "RiTimerFlashLine",
-        "image": {
-          "src": "/imgs/features/3.png",
-          "alt": "Recommendations before"
-        },
-        "afterImage": {
-          "src": "/imgs/features/3-after.png",
-          "alt": "Recommendations after"
-        }
+        "title": "Se?ales accionables",
+        "description": "Detecta tuits virales, hashtags emergentes y creadores clave con alertas de Twitter Viewer.",
+        "icon": "RiRadarLine"
       },
       {
-        "title": "Location-Based Calculations",
-        "description": "Moonrise and moonset for your location, multilingual interface (EN/DE/中文) and personalized Mondkalender recommendations for your region.",
-        "icon": "RiTranslate2",
-        "image": {
-          "src": "/imgs/features/4.png",
-          "alt": "Internationalisation before"
-        },
-        "afterImage": {
-          "src": "/imgs/features/4-after.png",
-          "alt": "Internationalisation after"
-        }
+        "title": "Listo para colaborar",
+        "description": "Comparte vistas guardadas, asigna etiquetas y sincroniza exportaciones con las herramientas de tu equipo.",
+        "icon": "RiTeamLine"
       }
     ]
   },
   "usage": {
     "name": "usage",
-    "title": "From fork to launch in four steps",
-    "description": "Everything you need is packaged—just follow the workflow and deploy your lunar platform.",
+    "title": "Sigue cualquier conversaci?n en cuatro pasos",
+    "description": "Twitter Viewer elimina fricci?n del social listening para que obtengas respuestas r?pido.",
     "image": {
-      "src": "/imgs/features/1.png"
+      "src": "/imgs/features/2.png"
     },
     "image_position": "left",
     "text_align": "center",
     "items": [
       {
-        "title": "Clone & configure",
-        "description": "Clone the repo, install dependencies, copy the env template. Demo seeds populate each tool instantly.",
+        "title": "Busca un perfil o hashtag",
+        "description": "Ingresa un @usuario, palabra clave o URL y abre un twitter web viewer con contexto instant?neo.",
         "image": {
           "src": "/imgs/features/5.png"
         }
       },
       {
-        "title": "Connect data sources",
-        "description": "Plug in Supabase, Stripe, OpenAI/Kling and optional storage—everything is controlled via environment variables.",
+        "title": "Aplica filtros inteligentes",
+        "description": "Filtra tuits por engagement, tipo de medio, idioma o fecha dentro del X Viewer.",
         "image": {
           "src": "/imgs/features/6.png"
         }
       },
       {
-        "title": "Adjust content",
-        "description": "Edit MDX pages, landing copy and translation JSONs. Feature flags help you turn tools on or off per launch.",
+        "title": "Guarda lo importante",
+        "description": "Marca hilos, crea listas de seguimiento y etiqueta menciones desde Twitter Viewer.",
         "image": {
           "src": "/imgs/features/7.png"
         }
       },
       {
-        "title": "Deploy & grow",
-        "description": "Use the prebuilt Vercel/Cloudflare pipelines, enable billing, onboard your community and scale confidently.",
+        "title": "Exporta y comparte",
+        "description": "Descarga CSVs, genera reportes o copia incrustaciones directamente del twitter web viewer.",
         "image": {
           "src": "/imgs/features/8.png"
         }
@@ -280,116 +261,116 @@
   },
   "feature": {
     "name": "feature",
-    "title": "All Mondkalender Features at a Glance",
-    "description": "Discover the diverse possibilities of our Mondkalender – from hair care to gardening.",
+    "title": "Todo lo que esperas de un Twitter Viewer",
+    "description": "Las herramientas esenciales de X Viewer reunidas en una interfaz limpia.",
     "items": [
       {
-        "title": "Mondkalender Haare Schneiden & Färben",
-        "description": "Find optimal days for haare schneiden nach Mondkalender. Includes hair coloring calendar with moon phase recommendations for healthy, strong hair.",
-        "icon": "RiMoonLine"
+        "title": "Twitter Profile Viewer",
+        "description": "Audita cuentas con tuits fijados, mejores medios, ratios de engagement y crecimiento de seguidores.",
+        "icon": "RiUserSearchLine"
       },
       {
-        "title": "Mondkalender Garden 2026",
-        "description": "Plan sowing, planting and harvest by moon phases. The garden calendar shows the best days for all gardening activities in 2026.",
-        "icon": "RiProfileLine"
+        "title": "Tweet Thread Reader",
+        "description": "Despliega hilos largos en narrativas legibles, c?pialos con formato o exp?rtalos en PDF.",
+        "icon": "RiArticleLine"
       },
       {
-        "title": "Daily Mondkalender",
-        "description": "Current moon phase, zodiac sign and personalized recommendations for today. Stay updated with Mond Heute (Moon Today).",
-        "icon": "RiDatabase2Line"
+        "title": "Hashtag Intelligence",
+        "description": "Sigue hashtags y palabras clave en tiempo real con tendencias y snapshots de sentimiento.",
+        "icon": "RiHashtag"
       },
       {
-        "title": "Mondkalender 2026 zum Ausdrucken",
-        "description": "Download the complete year calendar 2026 as PDF – with all moon phases, full moon and new moon dates for printing.",
-        "icon": "RiSecurePaymentLine"
+        "title": "Media Saver",
+        "description": "Descarga videos, GIFs e im?genes de alta calidad con metadatos del tuit desde Twitter Viewer.",
+        "icon": "RiDownloadLine"
       },
       {
-        "title": "Moonrise & Moonset Times",
-        "description": "Precise times for moonrise and moonset at your location – important for photography, rituals and nature observation.",
-        "icon": "RiBarChart2Line"
+        "title": "Spaces Explorer",
+        "description": "Explora Spaces en vivo y pr?ximos por categor?a, anfitri?n e idioma en un solo dashboard.",
+        "icon": "RiRadioLine"
       },
       {
-        "title": "Cooking by Mondkalender",
-        "description": "Nutrition planning in rhythm with the elements. Recipes and cooking tips aligned with current moon phase for better wellbeing.",
-        "icon": "RiRobot2Line"
+        "title": "Alertas y exportaciones",
+        "description": "Programa res?menes por correo, define alertas y exporta CSVs para an?lisis m?s profundo.",
+        "icon": "RiNotification3Line"
       }
     ]
   },
   "stats": {
     "name": "stats",
-    "label": "Metrics",
-    "title": "Trust in Proven Mondkalender Expertise",
-    "description": "Thousands of users plan their lives by Mondkalender – for health, beauty and wellbeing.",
-    "icon": "FaRegHeart",
+    "label": "M?tricas",
+    "title": "Twitter Viewer mantiene informados a los equipos sociales",
+    "description": "Marketers, periodistas y community managers conf?an a diario en nuestro X Viewer.",
+    "icon": "RiPulseLine",
     "items": [
       {
-        "title": "Active Users",
-        "label": "10,000+",
-        "description": "trust our Mondkalender"
+        "title": "Perfiles monitoreados",
+        "label": "28.000+",
+        "description": "gestionados desde los paneles de Twitter Viewer"
       },
       {
-        "title": "Mondkalender Tools",
-        "label": "12",
-        "description": "specialized applications"
+        "title": "Alertas de tendencia enviadas",
+        "label": "120K",
+        "description": "notificaciones de hashtags y palabras clave del twitter web viewer"
       },
       {
-        "title": "Moon Phases 2026",
-        "label": "365",
-        "description": "days fully covered"
+        "title": "Exportaciones generadas",
+        "label": "75K",
+        "description": "CSVs, PDFs e incrustaciones compartidas con los equipos"
       }
     ]
   },
   "testimonial": {
     "name": "testimonial",
-    "label": "Testimonials",
-    "title": "Loved by lunar entrepreneurs",
-    "description": "Astrology coaches, wellness brands and content creators use Mondkalender to serve their communities.",
+    "label": "Testimonios",
+    "title": "Equipos sociales de todo el mundo aman Twitter Viewer",
+    "description": "Marketers, analistas y creadores conf?an en Twitter Viewer para decidir mejor en X.",
     "icon": "GoThumbsup",
     "items": [
       {
-        "title": "Leonie Fischer",
-        "label": "Astrology Coach",
-        "description": "“Moon Today and the haircut planner let me send personalised guidance every morning—without hiring developers.”",
+        "title": "Alicia G?mez",
+        "label": "Estratega de redes",
+        "description": "\"Twitter Viewer sustituy? nuestras capturas. Las alertas del X Viewer sincronizan cada lanzamiento.\"",
         "image": {
           "src": "/imgs/users/1.png"
         }
       },
       {
-        "title": "Dr. Markus Held",
-        "label": "Wellness Clinic Director",
-        "description": "“Stripe, Supabase and the admin dashboards saved us weeks. We focus on programs while the template handles operations.”",
+        "title": "Luis Andrade",
+        "label": "Periodista investigativo",
+        "description": "\"El twitter web viewer an?nimo me permite vigilar fuentes y archivar tuits con seguridad.\"",
         "image": {
           "src": "/imgs/users/2.png"
         }
       },
       {
-        "title": "Aylin Kaya",
-        "label": "Content Creator",
-        "description": "“LunaColor makes it easy to share creative colour rituals. My audience loves the before/after storytelling.”",
+        "title": "Mar?a Paredes",
+        "label": "Growth Marketer",
+        "description": "\"Creamos reportes semanales directamente desde las exportaciones de Twitter Viewer sin caos de copias.\"",
         "image": {
           "src": "/imgs/users/3.png"
         }
       },
       {
-        "title": "Jonas Weber",
-        "label": "Founder LunarEats",
-        "description": "“The cooking tool delivers fresh menus daily. We built a paid membership in two days.”",
+        "title": "Noah Villalba",
+        "label": "Investigadora de producto",
+        "description": "\"Las colecciones guardadas facilitan informar a stakeholders sobre tendencias en X sin iniciar sesi?n.\"",
         "image": {
           "src": "/imgs/users/4.png"
         }
       },
       {
-        "title": "Sofia Mendes",
-        "label": "Product Manager",
-        "description": "“The moon sign calculator plus onboarding drives huge activation. Great UX and rock-solid code.”",
+        "title": "Daniel Costa",
+        "label": "Fundador de agencia",
+        "description": "\"A los clientes les encantan los dashboards. Twitter Viewer nos da insights m?s r?pidos que las herramientas de pago.\"",
         "image": {
           "src": "/imgs/users/5.png"
         }
       },
       {
-        "title": "Nina Baumann",
-        "label": "Holistic Coach",
-        "description": "“I forked Mondkalender, branded it and launched in a week. My clients love the personalised dashboards.”",
+        "title": "Elena Rivas",
+        "label": "L?der de anal?tica",
+        "description": "\"Los CSV se sincronizan con nuestro data warehouse en minutos: Twitter Viewer es la base de nuestro social listening.\"",
         "image": {
           "src": "/imgs/users/6.png"
         }
@@ -399,45 +380,45 @@
   "faq": {
     "name": "faq",
     "label": "FAQ",
-    "title": "Frequently asked questions",
-    "description": "Need more details? Reach out via Discord or email—our team is happy to help.",
+    "title": "Preguntas frecuentes",
+    "description": "?Necesitas m?s detalles? Escr?benos por el chat o correo; el equipo de Twitter Viewer est? listo para ayudarte.",
     "items": [
       {
-        "title": "What’s included in the template?",
-        "description": "All lunar tools, admin dashboards, authentication, Stripe billing, content structures, AI workflows and i18n building blocks."
+        "title": "?Necesito una cuenta de Twitter para usar Twitter Viewer?",
+        "description": "No. El X Viewer funciona sin iniciar sesi?n, as? que puedes investigar, monitorear y exportar de forma an?nima."
       },
       {
-        "title": "Do I need advanced technical skills?",
-        "description": "Basic TypeScript knowledge is enough. Clear docs, scripts and seeds make the setup straightforward."
+        "title": "?Twitter Viewer respeta los l?mites de X?",
+        "description": "S?. Respetamos los l?mites p?blicos y rotamos la infraestructura para mantener estable el twitter web viewer."
       },
       {
-        "title": "Can I add new tools?",
-        "description": "Yes. The architecture is modular—duplicate the existing pattern to launch your own lunar features."
+        "title": "?Puede Twitter Viewer mostrar cuentas privadas?",
+        "description": "Solo trabajamos con datos p?blicos. Las cuentas protegidas o privadas permanecen inaccesibles."
       },
       {
-        "title": "How accurate is the data?",
-        "description": "Astronomical calculations use the Swiss Ephemeris. You can enable caching or plug in alternative sources if needed."
+        "title": "?Qu? tan frescos son los datos en Twitter Viewer?",
+        "description": "Perfiles, hashtags y hilos se actualizan cada pocos minutos, con opci?n de refresco manual bajo demanda."
       },
       {
-        "title": "Do you offer launch support?",
-        "description": "The Pro package includes an onboarding call and premium support. All plans include lifetime updates."
+        "title": "?Twitter Viewer soporta espacios de trabajo en equipo?",
+        "description": "Por supuesto. Invita a tu equipo, comparte vistas guardadas y gestiona permisos desde un solo lugar."
       }
     ]
   },
   "cta": {
     "name": "cta",
-    "title": "Start Today with Mondkalender 2026",
-    "description": "Harness the power of moon phases for your daily life. Whether haare schneiden, gardening or health – find the optimal time with our Mondkalender.",
+    "title": "Empieza a explorar con Twitter Viewer hoy",
+    "description": "Abre gratis el X Viewer y mejora cuando tu equipo necesite automatizaci?n y exportaciones.",
     "buttons": [
       {
-        "title": "Open Mondkalender 2026",
-        "url": "/mondkalender-2026",
+        "title": "Abrir Twitter Viewer",
+        "url": "/viewer",
         "target": "_self",
-        "icon": "RiCalendar2Line"
+        "icon": "RiPlayCircleLine"
       },
       {
-        "title": "Discover All Tools",
-        "url": "/tools",
+        "title": "Ver precios",
+        "url": "/#pricing",
         "target": "_self",
         "variant": "outline"
       }
@@ -445,9 +426,9 @@
   },
   "pricing": {
     "name": "pricing",
-    "label": "Pricing",
-    "title": "Flexible licensing",
-    "description": "Pay once and launch unlimited moon products—or opt into subscriptions for continuous support.",
+    "label": "Precios",
+    "title": "Planes flexibles para cada equipo de X",
+    "description": "Comienza gratis y mejora cuando tus necesidades de monitoreo social crezcan.",
     "groups": [
       {
         "name": "one-time",
@@ -467,125 +448,125 @@
     "items": [
       {
         "title": "Starter",
-        "description": "Ideal for creators and boutique studios.",
-        "features_title": "Includes",
+        "description": "Ideal para freelancers y creadores en solitario.",
+        "features_title": "Incluye",
         "features": [
-          "Access to all lunar tools",
-          "Supabase + Drizzle ORM setup",
-          "Stripe checkout & billing",
-          "Internationalised landing page",
-          "MDX documentation & content",
-          "One year of updates"
+          "B?squedas ilimitadas en Twitter Viewer",
+          "Profile viewer, thread reader y hashtag tracker",
+          "Exportaciones CSV hasta 500 filas",
+          "Colecciones y marcadores guardados",
+          "Soporte por email en 72h",
+          "Un espacio de trabajo"
         ],
         "interval": "one-time",
         "amount": 11900,
         "currency": "USD",
         "price": "$119",
         "original_price": "$149",
-        "unit": "one time",
+        "unit": "pago ?nico",
         "is_featured": false,
-        "tip": "Fork, customise, launch",
+        "tip": "Lanza en minutos",
         "button": {
-          "title": "Choose Starter",
+          "title": "Elegir Starter",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter-usd",
-        "product_name": "Mondkalender Starter",
+        "product_name": "Twitter Viewer Starter",
         "credits": 100,
         "valid_months": 12,
         "group": "one-time"
       },
       {
         "title": "Pro",
-        "description": "For growing brands with premium expectations.",
-        "label": "Recommended",
-        "features_title": "Everything in Starter plus",
+        "description": "Pensado para equipos que lanzan campa?as cada semana.",
+        "label": "Recomendado",
+        "features_title": "Todo en Starter m?s",
         "features": [
-          "Premium support (48h SLA)",
-          "60 min onboarding call",
-          "Extended admin dashboards",
-          "AI credits & sample flows",
-          "White-label email templates",
-          "Lifetime updates"
+          "Alertas de hashtag en vivo y monitoreo de menciones",
+          "Roles con permisos avanzados por workspace",
+          "Exportaciones CSV y reportes PDF ilimitados",
+          "Acceso a la API para flujos personalizados",
+          "Soporte prioritario por email (48h)",
+          "Branding white-label del viewer"
         ],
         "interval": "one-time",
         "amount": 19900,
         "currency": "USD",
         "price": "$199",
         "original_price": "$259",
-        "unit": "one time",
+        "unit": "pago ?nico",
         "is_featured": true,
-        "tip": "Launch with expert guidance",
+        "tip": "Escala tu monitoreo",
         "button": {
-          "title": "Upgrade to Pro",
+          "title": "Mejorar a Pro",
           "url": "/#pricing",
           "icon": "RiFlashlightFill"
         },
         "product_id": "pro-usd",
-        "product_name": "Mondkalender Pro",
+        "product_name": "Twitter Viewer Pro",
         "credits": 200,
         "valid_months": 24,
         "group": "one-time"
       },
       {
         "title": "Business",
-        "description": "Enterprise-grade support and feature co-creation.",
-        "features_title": "Designed for scale",
+        "description": "Soporte empresarial e integraciones avanzadas.",
+        "features_title": "Dise?ado para escalar",
         "features": [
-          "Priority roadmap requests",
-          "Multi-tenant capabilities",
-          "Audit logging & compliance guides",
-          "SAML/SCIM integrations",
-          "Custom SLA & workshops",
-          "Joint tool development"
+          "Gestor de cuenta dedicado",
+          "Registro avanzado de cumplimiento",
+          "Autenticaci?n SSO y SAML",
+          "Ruteo de alertas y webhooks personalizados",
+          "Workshops estrat?gicos trimestrales",
+          "Acceso temprano a nuevos m?dulos de X Viewer"
         ],
         "interval": "month",
         "amount": 4500,
         "currency": "USD",
         "price": "$45",
         "original_price": "$59",
-        "unit": "per month",
+        "unit": "por mes",
         "is_featured": true,
-        "tip": "Cancel any time",
+        "tip": "Cancela cuando quieras",
         "button": {
-          "title": "Talk to sales",
+          "title": "Hablar con ventas",
           "url": "/pricing",
           "icon": "RiCustomerService2Line"
         },
         "product_id": "business-monthly",
-        "product_name": "Mondkalender Business",
+        "product_name": "Twitter Viewer Business",
         "credits": 400,
         "valid_months": 1,
         "group": "monthly"
       },
       {
-        "title": "Pro Annual",
-        "description": "Save 20% and access exclusive beta features.",
-        "features_title": "Best value",
+        "title": "Scale Annual",
+        "description": "Ahorra 20% y accede primero a m?dulos beta.",
+        "features_title": "Mejor valor",
         "features": [
-          "Everything in Pro",
-          "12 months premium support",
-          "Exclusive template drops",
-          "Beta feature access",
-          "Launch checklist & playbooks",
-          "Partner listing on mondkalender.app"
+          "Todo lo de Pro",
+          "12 meses de soporte premium",
+          "Onboarding y migraci?n dedicados",
+          "Revisiones de datos trimestrales",
+          "Acceso beta a bots de automatizaci?n",
+          "Listado de partners en twitter-viewer.com"
         ],
         "interval": "year",
         "amount": 179900,
         "currency": "USD",
-        "price": "$179 / month",
-        "original_price": "$219 / month",
-        "unit": "billed yearly",
+        "price": "$179 / mes",
+        "original_price": "$219 / mes",
+        "unit": "facturaci?n anual",
         "is_featured": true,
-        "tip": "20% cheaper than monthly",
+        "tip": "20% menos que mensual",
         "button": {
-          "title": "Choose annual plan",
+          "title": "Elegir plan anual",
           "url": "/pricing",
           "icon": "RiSparklingLine"
         },
         "product_id": "pro-yearly",
-        "product_name": "Mondkalender Pro Annual",
+        "product_name": "Twitter Viewer Scale Annual",
         "credits": 2400,
         "valid_months": 12,
         "group": "yearly"
@@ -595,98 +576,88 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "Mondkalender",
-      "description": "Your comprehensive Mondkalender 2026 with tools for haare schneiden, gardening, cooking and health by moon phases. Precise calculations for every day.",
+      "title": "Twitter Viewer",
+      "description": "Twitter Viewer es el twitter web viewer todo en uno para navegar perfiles, hilos, hashtags y Spaces sin iniciar sesi?n.",
       "logo": {
         "src": "/logo.png",
-        "alt": "Mondkalender 2026"
+        "alt": "Twitter Viewer"
       },
       "url": "/"
     },
-    "copyright": "© 2025 • Mondkalender – Your Moon Phase Guide",
+    "copyright": "? 2025 ? Twitter Viewer - Explora X sin iniciar sesi?n",
     "nav": {
       "items": [
         {
-          "title": "Product",
+          "title": "Producto",
           "children": [
             {
-              "title": "Features",
+              "title": "Funciones",
               "url": "/#feature",
               "target": "_self"
             },
             {
-              "title": "Tools",
-              "url": "/tools",
+              "title": "Viewer",
+              "url": "/viewer",
               "target": "_self"
             },
             {
-              "title": "Pricing",
+              "title": "Precios",
               "url": "/#pricing",
               "target": "_self"
             }
           ]
         },
         {
-          "title": "Tools",
+          "title": "Herramientas",
           "children": [
             {
-              "title": "Moon Today",
-              "url": "/tools/mond-heute",
+              "title": "Profile Viewer",
+              "url": "/tools/profile-viewer",
               "target": "_self"
             },
             {
-              "title": "Hair Cutting Calendar",
-              "url": "/tools/mondkalender-haare-schneiden",
+              "title": "Thread Reader",
+              "url": "/tools/thread-reader",
               "target": "_self"
             },
             {
-              "title": "Hair Coloring Calendar",
-              "url": "/tools/haare-farben-mondkalender",
+              "title": "Hashtag Tracker",
+              "url": "/tools/hashtag-tracker",
               "target": "_self"
             },
             {
-              "title": "Moon Sign Calculator",
-              "url": "/tools/moon-sign-calculator",
+              "title": "Media Downloader",
+              "url": "/tools/media-downloader",
               "target": "_self"
             },
             {
-              "title": "Moon Rise & Set",
-              "url": "/tools/auf-untergang",
+              "title": "Spaces Directory",
+              "url": "/tools/spaces",
               "target": "_self"
             },
             {
-              "title": "Cooking by Moon",
-              "url": "/tools/kochen",
-              "target": "_self"
-            },
-            {
-              "title": "Moon Dashboard",
-              "url": "/tools/moon",
-              "target": "_self"
-            },
-            {
-              "title": "AI Moon Advisor",
-              "url": "/tools/example",
+              "title": "Analytics Dashboard",
+              "url": "/tools/analytics",
               "target": "_self"
             }
           ]
         },
         {
-          "title": "Network",
+          "title": "Empresa",
           "children": [
             {
-              "title": "Partner Program",
-              "url": "/partners",
+              "title": "Gu?as",
+              "url": "/posts",
               "target": "_self"
             },
             {
-              "title": "Support",
-              "url": "mailto:support@mondkalender.codes",
+              "title": "Docs API",
+              "url": "/docs",
               "target": "_self"
             },
             {
-              "title": "Community",
-              "url": "/discord",
+              "title": "Soporte",
+              "url": "mailto:support@twitter-viewer.com",
               "target": "_self"
             }
           ]
@@ -698,25 +669,25 @@
         {
           "title": "X",
           "icon": "RiTwitterXFill",
-          "url": "https://x.com/mondkalenderai",
+          "url": "https://www.twitter-viewer.com",
           "target": "_blank"
         },
         {
           "title": "GitHub",
           "icon": "RiGithubFill",
-          "url": "https://github.com/mondkalenderai",
+          "url": "https://github.com/twitter-viewer",
           "target": "_blank"
         },
         {
           "title": "Discord",
           "icon": "RiDiscordFill",
-          "url": "https://discord.gg/HQNnrzjZQS",
+          "url": "https://discord.gg/twitterviewer",
           "target": "_blank"
         },
         {
           "title": "Email",
           "icon": "RiMailLine",
-          "url": "mailto:support@mondkalender.codes",
+          "url": "mailto:support@twitter-viewer.com",
           "target": "_self"
         }
       ]
@@ -724,15 +695,15 @@
     "agreement": {
       "items": [
         {
-          "title": "Privacy Policy",
+          "title": "Pol?tica de privacidad",
           "url": "/privacy-policy"
         },
         {
-          "title": "Terms of Service",
+          "title": "T?rminos del servicio",
           "url": "/terms-of-service"
         },
         {
-          "title": "Legal Notice",
+          "title": "Aviso legal",
           "url": "/imprint"
         }
       ]
