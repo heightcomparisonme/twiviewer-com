@@ -22,6 +22,13 @@ export default function BeforeAfterSlider({
   const [isDragging, setIsDragging] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
 
+  // 验证图片URL是否有效
+  const isValidImageUrl = (url: string): boolean => {
+    return typeof url === 'string' && url.trim().length > 0;
+  };
+
+  const hasValidImages = isValidImageUrl(beforeImage) && isValidImageUrl(afterImage);
+
   // 计算滑块位置
   const calculatePosition = useCallback((clientX: number) => {
     if (!containerRef.current) return 50;
@@ -126,6 +133,23 @@ export default function BeforeAfterSlider({
     }
   }, [isDragging, handleGlobalMouseMove, handleGlobalMouseUp, handleGlobalTouchMove, handleGlobalTouchEnd]);
 
+  // 如果没有有效的图片，显示占位符
+  if (!hasValidImages) {
+    return (
+      <div
+        className={cn(
+          "relative overflow-hidden rounded-lg bg-gray-100 flex items-center justify-center min-h-[400px]",
+          className
+        )}
+      >
+        <div className="text-center text-gray-500">
+          <div className="text-lg font-medium mb-2">No images to compare</div>
+          <div className="text-sm">Please provide valid before and after images</div>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div
       ref={containerRef}
@@ -144,12 +168,14 @@ export default function BeforeAfterSlider({
       aria-valuetext={`${Math.round(sliderPosition)}% ${afterAlt}`}
     >
       {/* After Image (Background) */}
-      <img
-        src={afterImage}
-        alt={afterAlt}
-        className="w-full h-full object-cover"
-        draggable={false}
-      />
+      {isValidImageUrl(afterImage) && (
+        <img
+          src={afterImage}
+          alt={afterAlt}
+          className="w-full h-full object-cover"
+          draggable={false}
+        />
+      )}
 
       {/* Before Image (Overlay with clip-path) */}
       <div
@@ -158,12 +184,14 @@ export default function BeforeAfterSlider({
           clipPath: `inset(0 ${100 - sliderPosition}% 0 0)`
         }}
       >
-        <img
-          src={beforeImage}
-          alt={beforeAlt}
-          className="w-full h-full object-cover"
-          draggable={false}
-        />
+        {isValidImageUrl(beforeImage) && (
+          <img
+            src={beforeImage}
+            alt={beforeAlt}
+            className="w-full h-full object-cover"
+            draggable={false}
+          />
+        )}
       </div>
 
       {/* Slider Line */}
